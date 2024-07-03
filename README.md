@@ -52,6 +52,8 @@ Travel Mate gives a bunch of helpful utilities in one app including World Clock,
 | <img src="https://raw.githubusercontent.com/project-travel-mate/Travel-Mate/master/.github/screenshots/world_clock.jpeg" width="200px"> | <img src="https://raw.githubusercontent.com/project-travel-mate/Travel-Mate/master/.github/screenshots/share_my_contact.png" width="200px"> | <img src="https://raw.githubusercontent.com/project-travel-mate/Travel-Mate/master/.github/screenshots/checklist.png" width="200px"> |
 | - | - | - |
 
+
+
 ### Contributing
 Check out the [Getting Started](GETTING_STARTED.md) page to add an awesome new feature or bash some bugs. If you're new to open-source, we recommend you to checkout our [Contributing Guidelines](CONTRIBUTING.md). 
 
@@ -61,3 +63,9 @@ Feel free to fork the project and send us a pull request or even open a [new iss
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/project-travel-mate/Travel-Mate.svg)](https://starchart.cc/project-travel-mate/Travel-Mate)
+
+
+
+
+
+<p><span style="font-weight: 400;">The <strong>Golden Triangle Tours From Delhi</strong> is a journey through time, offering a kaleidoscope of experiences that blend history, culture, and natural beauty. By planning meticulously, respecting local customs, and immersing yourself in the vibrant culture, you can create memories that will last a lifetime. Whether you are a history enthusiast, a culinary adventurer, or a cultural explorer, this tour promises an unforgettable adventure through the heart of India.</span></p>
